@@ -1,4 +1,5 @@
 # Exploratory Data Analysis (EDA) on Retail Sales Data
+![Screenshot 2024-10-07 184532](https://github.com/user-attachments/assets/9810ca74-9e40-4c38-be54-621c0e661fbd)
 
 ## Project Overview
 This project performs Exploratory Data Analysis (EDA) on a retail sales dataset, which contains transaction information such as transaction date, customer demographics, product details, and sales data. The goal is to uncover patterns, trends, and insights that can help retailers make informed business decisions, optimize sales strategies, and improve customer engagement.
